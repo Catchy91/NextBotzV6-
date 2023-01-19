@@ -6,9 +6,9 @@ import { fileURLToPath } from 'url'
 import moment from 'moment-timezone'
 
 /*============= WAKTU =============*/
-let wibh = moment.tz('Asia/Jakarta').format('HH')
-    let wibm = moment.tz('Asia/Jakarta').format('mm')
-    let wibs = moment.tz('Asia/Jakarta').format('ss')
+let wibh = moment.tz('Asia/Karachi').format('HH')
+    let wibm = moment.tz('Asia/Karachi').format('mm')
+    let wibs = moment.tz('Asia/Karachi').format('ss')
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
     
     let d = new Date(new Date + 3600000)
@@ -28,13 +28,13 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 /*============== INFO OWNER ==============*/
 global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtube.com/@Putra_Modz_'
-global.sgh = 'https://github.com/Lucife-Putra'
+global.syt = 'https://youtube.com/@Asif-King'
+global.sgh = 'https://github.com/Asif-Ofc'
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.sdc = 'https://wa.me/6282214729677'
-global.swa = 'wa.me/682214729677'
+global.sdc = 'https://wa.me/923474187615'
+global.swa = 'wa.me/923474187615'
 global.swb = 'https://discord.gg/'
-global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
+global.snh = 'https://nhentai.net/g/365296/' //Don't bother changing this.
 
 /*============== PAYMENT ==============*/
 global.pdana = '-'
@@ -46,17 +46,15 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
+global.nomorown = '923474187615'
 global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nameown = 'AsifKhan'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677'],
-  ['6283863727733'],
-  ['62838637277192'],
-  ['6282214729677', 'PutraModz', true]
+  ['923474187615'],
+  ['923474187615', 'PutraModz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -132,13 +130,13 @@ global.thumbs = ['https://telegra.ph/file/7d80f81dd7c3ed1ff85a1.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hello, Meet me NexBotz I will help you anytime & anywhere, I am a WhatsApp bot assistant made by Asif I was released on\n🗓 ️_16/1/2023_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'PutraModz'
-global.umurowner = '18'
-global.asalowner = 'Jawa Barat, Kuningan'
-global.nomorowner = 'wa.me/6282214729677'
+global.nameowner = 'AsifKhan'
+global.umurowner = '20'
+global.asalowner = 'Pakistan'
+global.nomorowner = 'wa.me/923474187615'
 global.pacarowner = 'Amelia Putri septiany'
 
 /*============== TEXT ==============*/
